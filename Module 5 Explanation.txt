@@ -1,0 +1,4 @@
+The test results are an interesting way to ensure your code is clean and readible for the pc.
+I like that it tells you when some tests pass and some fail, but I wish the tests were a little
+more direct when telling you where the problem is. These tests had obvious problems but I can
+see that being annoying in future, more complex problems. 
